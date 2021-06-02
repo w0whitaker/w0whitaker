@@ -9,7 +9,7 @@
   \ \__/ ( / /    ( )___//     \__\_\)
     \ __/ / /      \__//          \__)
 ``` 
-# William Whitaker <span style="font-size: small">(he/him)</span>
+# William Whitaker <span style="font-size: 8px">(he/him)</span>
 
 
 Hi! I'm a self-taught [web developer](https://williamwhitaker.dev) and an [artist](https://williamwhitaker.art). 
