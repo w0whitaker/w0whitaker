@@ -2,10 +2,8 @@
 
 ![A colorful pattern of squares overlapping each other](./banner.gif 'banner')
 
-Hi! I'm a self-taught [web developer](https://williamwhitaker.dev) and an [artist](https://williamwhitaker.art).
+Hi! I'm a self-taught [web developer](https://williamwhitaker.dev) focused on creating delightful user interactions.
 
-You can also find me on:
-
-- [linkedin](https://www.linkedin.com/in/william-whitaker-212508213/)
-- [codepen](https://codepen.io/w0whitaker)
-- [stack overflow](https://stackoverflow.com/users/4699931/brazilla-ray?tab=profile)
+[Me](https://www.linkedin.com/in/william-whitaker), on LinkedIn.
+Also [me](https://codepen.io/w0whitaker)!
+[Me](https://williamwhitaker.art) again, hi!
