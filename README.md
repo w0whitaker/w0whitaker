@@ -1,4 +1,4 @@
 
 
 ![A colorful pattern of blocks with diagonal stripes.](./ghub.png 'banner')
-___[https://williamwhitaker.dev](https://williamwhitaker.dev)___
+<div style="font-size: 4em; color: #0071bb;"><a href="https://williamwhitaker.dev">https://williamwhitaker.dev</a></div>
