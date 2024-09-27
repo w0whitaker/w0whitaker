@@ -1,9 +1,4 @@
 
 
-![A colorful pattern of squares overlapping each other](./ghub.png 'banner')
-
-Hi! I'm a self-taught [web developer](https://williamwhitaker.dev) focused on creating delightful user interactions.
-
-[Me](https://www.linkedin.com/in/william-whitaker), on LinkedIn.
-Also [me](https://codepen.io/w0whitaker)!
-[Me](https://williamwhitaker.art) again, hi!
+![A colorful pattern of blocks with diagonal stripes.](./ghub.png 'banner')
+___[https://williamwhitaker.dev](https://williamwhitaker.dev)___
